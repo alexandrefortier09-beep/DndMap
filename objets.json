@@ -1,0 +1,82 @@
+{
+  "contenants/coffre-renforce.png": {
+    "name": "Coffre renforcé",
+    "size": 1,
+    "cat": "Contenants"
+  },
+  "contenants/coffre.png": {
+    "name": "Coffre",
+    "size": 0.75,
+    "cat": "Contenants"
+  },
+  "contenants/caisse.png": {
+    "name": "Caisse",
+    "size": 1,
+    "cat": "Contenants"
+  },
+  "contenants/tonneau.png": {
+    "name": "Tonneau",
+    "size": 0.75,
+    "cat": "Contenants"
+  },
+  "contenants/sac.png": {
+    "name": "Sac",
+    "size": 0.75,
+    "cat": "Contenants"
+  },
+  "contenants/panier.png": {
+    "name": "Panier",
+    "size": 0.75,
+    "cat": "Contenants"
+  },
+  "camp/chaudron.png": {
+    "name": "Chaudron",
+    "size": 0.75,
+    "cat": "Camp"
+  },
+  "camp/feu-de-camp.png": {
+    "name": "Feu de camp",
+    "size": 1,
+    "cat": "Camp"
+  },
+  "camp/sac-de-couchage.png": {
+    "name": "Sac de couchage",
+    "size": 1,
+    "cat": "Camp"
+  },
+  "mobilier/table.png": {
+    "name": "Table",
+    "size": 2,
+    "cat": "Mobilier"
+  },
+  "mobilier/table-usee.png": {
+    "name": "Table usée",
+    "size": 2,
+    "cat": "Mobilier"
+  },
+  "mobilier/lit.png": {
+    "name": "Lit",
+    "size": 2,
+    "cat": "Mobilier"
+  },
+  "mobilier/chaise.png": {
+    "name": "Chaise",
+    "size": 0.75,
+    "cat": "Mobilier"
+  },
+  "mobilier/tabouret.png": {
+    "name": "Tabouret",
+    "size": 0.5,
+    "cat": "Mobilier"
+  },
+  "mobilier/banc-a-dossier.png": {
+    "name": "Banc à dossier",
+    "size": 2,
+    "cat": "Mobilier"
+  },
+  "mobilier/banc.png": {
+    "name": "Banc",
+    "size": 2,
+    "cat": "Mobilier"
+  }
+}
